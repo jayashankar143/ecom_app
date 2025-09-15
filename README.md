@@ -1,2 +1,2 @@
 # ecom_app
-welcome
+welcome to Git
